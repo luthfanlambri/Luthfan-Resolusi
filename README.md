@@ -1,2 +1,4 @@
 # Luthfan-Resolusi
-Resolusi untuk menyimpan rencana Luthfan kedepannya
+- Konsisten untuk belajar koding setiap hari
+- Bekerja di MoFA
+- Freelance Upwork
