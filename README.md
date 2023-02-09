@@ -3,4 +3,3 @@
 - Bekerja di MoFA
 - Freelance Upwork
 - Beli Rumah
-- Bayar hutang kerabat
