@@ -3,3 +3,4 @@
 - Bekerja di MoFA
 - Freelance Upwork
 - Beli Rumah
+  - Di antapani aja
